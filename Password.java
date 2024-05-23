@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author Roggers Anguzu
  */
-public class APT3040A {
+public class Password {
 
     /**
      * @param args the command line arguments
