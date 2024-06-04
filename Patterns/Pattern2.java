@@ -6,7 +6,7 @@ package Patterns;
 
 /**
  *
- * @author ubuntu
+ * @author Rojers
  */
 public class Pattern2 {
     public static void main(String[] args){
