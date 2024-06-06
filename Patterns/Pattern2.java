@@ -21,6 +21,7 @@ public class Pattern2 {
             }
             //Have added this line for each Column
             System.out.println(" ");
+            //The main considerations to takeway are the rows and the Columns to deal with
         }
     }
     
