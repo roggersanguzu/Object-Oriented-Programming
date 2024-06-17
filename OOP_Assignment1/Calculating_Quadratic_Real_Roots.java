@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Roggers Anguzu
+ * @author Roggers Anguzu Dev
  */
 public class Calculating_Quadratic_Real_Roots {
     public static void main(String[] args){
