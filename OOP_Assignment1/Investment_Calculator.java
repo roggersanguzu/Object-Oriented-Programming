@@ -17,7 +17,7 @@ public class Investment_Calculator {
         String y=JOptionPane.showInputDialog("Enter the Rate ");
         String z=JOptionPane.showInputDialog("Enter the Number of Years ");
         
-        
+        //I decided to use Integers but Doubles could also Be an alternative
         p=Integer.parseInt(x);
         r=Integer.parseInt(y);
         n=Integer.parseInt(z);
