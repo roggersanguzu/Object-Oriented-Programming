@@ -13,7 +13,7 @@ import java.util.Scanner;
 public class Guessing_Game {
     
     public static void main(String[] args) {
-        // TODO code application logic here
+        // This is the Code Logic
         int answer=7;
         int i=0;
         Scanner input= new Scanner(System.in);
