@@ -3,7 +3,7 @@ package Arrays_Part2;
 
 /**
  *
- * @author Roggers Anguzu
+ * @author Roggers Anguzu. Beginners
  */
 public class First {
     public static void main(String[] args){
