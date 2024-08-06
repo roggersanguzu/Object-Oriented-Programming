@@ -9,7 +9,7 @@ import javax.swing.JTextArea;
  */
 public class Investment_Calculator {
     public static void main(String[] args){
-        int p,r,n;
+        int p,r,n;//Declarations
         String numb=JOptionPane.showInputDialog("Enter of Users Amount do you want  to Calculate ");
         int i=Integer.parseInt(numb);
         while(i>=0){
